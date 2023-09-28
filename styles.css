@@ -1,0 +1,66 @@
+
+hr{
+    width: 70%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.card{
+    margin: auto;
+    
+    width:400px;
+    text-align: center;
+    align-items: center;
+   
+}
+
+.login{
+    text-align: center;
+}
+input{
+    width:300px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid grey;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+button{
+    padding: 20px 70px;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 20px;
+}
+button:hover{
+    background-color: white;
+    border: 2px solid black;
+    color: black;
+    cursor: pointer;
+}
+
+button:active{
+    border: none;
+    font-size: 22px;
+}
+
+.description{
+    padding:20px 50px;
+    
+}
+
+p{
+    color: grey;
+    margin-bottom: 5px;
+}
+
+a{
+    
+    color: grey;
+}
+
+a:hover{
+    color: black;
+    cursor: pointer;
+}
